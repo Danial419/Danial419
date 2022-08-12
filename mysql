@@ -1,0 +1,5 @@
+Step 1 — Installing MySQL
+sudo apt update
+Then install the mysql-server package:
+sudo apt install mysql-server
+sudo systemctl start mysql.service
